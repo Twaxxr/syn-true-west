@@ -1,6 +1,8 @@
 -- True West Graphics | RedM Graphic Mod
 -- synapse.tebex.io
 
+-- test
+
 function stringsplit(inputstr, sep)
 	if sep == nil then
 	  sep = "%s"
