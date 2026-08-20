@@ -1,0 +1,1 @@
+Synapse True West it's a RedM Script with the scope of improving visual elements for players inside the server, the installation it's drag and drop, put the syn-true-west inside your resources folder and start it in the server.cfg and enjoy your improved experience!
